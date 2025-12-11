@@ -17,18 +17,25 @@ Projects focused on automating repetitive tasks, intelligent process automation 
 -   [Project 1: Brief Description](#)
 -   [Project 2: Brief Description](#)
 
-### 💬 Chatbots
+### 💬 Agents
 
 Development of conversational AI systems, including rule-based bots, retrieval-based models, and generative models for various applications like customer service, information retrieval, or interactive assistants.
 -   [Project 1: Brief Description](#)
 -   [Project 2: Brief Description](#) -->
 
-### 📊 AI/ML Tools
+### 🤖 Agents
+
+Development of agent-based for various applications like customer service, information retrieval, or interactive assistants.
+
+-   [Pawcha : Conversational agent that tracks and recalls your receipt-based purchases.](#)
+-   [Nokcha : An agentic chatbot capable of extracting meaningful information from both tabular datasets and PDFs.](#)
+
+### 📊 AI/ML Pipeline
 
 Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
--   [Flowkestra: A Lightweight Orchestrator for Machine Learning Experiments](https://github.com/hfahrudin/flowkestra)
--   [Orkes: A lightweight orchestration framework for LLM agents, no abstractions you don’t need.](https://github.com/hfahrudin/orkes)
 -   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
+-   [Document Similarity Search](#)
+-   [Barebone Vector DB](#)
 
 ### 📖 Research Implentaion
 
