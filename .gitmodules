@@ -1,0 +1,21 @@
+[submodule "cv/facex"]
+	path = cv/facex
+	url = https://github.com/hfahrudin/facex
+[submodule "cv/motion_nav"]
+	path = cv/motion_nav
+	url = https://github.com/hfahrudin/motion_nav
+[submodule "pipeline/Dockerize-Llamafile"]
+	path = pipeline/Dockerize-Llamafile
+	url = https://github.com/hfahrudin/Dockerize-Llamafile
+[submodule "research/MetaLearn-MAML_Reptile"]
+	path = research/MetaLearn-MAML_Reptile
+	url = https://github.com/hfahrudin/MetaLearn-MAML_Reptile
+[submodule "research/Football-MultiAgent"]
+	path = research/Football-MultiAgent
+	url = https://github.com/hfahrudin/Football-MultiAgent-Imitation-Learning
+[submodule "research/trex-DQN"]
+	path = research/trex-DQN
+	url = https://github.com/hfahrudin/trex-DQN
+[submodule "research/VigenereRSAImageLock"]
+	path = research/VigenereRSAImageLock
+	url = https://github.com/hfahrudin/VigenereRSAImageLock
