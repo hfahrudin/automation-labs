@@ -3,7 +3,7 @@
   <img width="25%" alt="Model2Vec logo" src="assets/logo.png"><br/>
 </h2>
 
-This repository is structured as a monorepo, leveraging Git submodules to organize my AI/ML projects and research implementations. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
+This repository is structured as a monorepo, leveraging Git submodules to organize my AI/ML projects and research implementations. The goal is to showcase practical applications and explorations in the rapidly evolving fields of intelligent machine.
 
 ## 🚀 Domains Covered
 
