@@ -3,7 +3,7 @@
   <img width="23%" alt="Model2Vec logo" src="assets/logo.png"><br/>
 </h2>
 
-This repository serves as a curated collection of my AI/ML projects, including Proof-of-Concepts (PoCs) and Minimum Viable Products (MVPs), developed across several key domains. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
+This repository serves as a curated collection of my AI/ML projects, including Proof-of-Concepts (PoCs), Minimum Viable Products (MVPs) and research paper implementation across several key domains. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
 
 ---
 
