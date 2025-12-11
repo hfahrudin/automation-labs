@@ -1,6 +1,9 @@
-# AI/ML Tools, PoCs, and MVPs Repository
 
-This repository serves as a curated collection of various AI/ML projects, including tools, Proof-of-Concepts (PoCs), and Minimum Viable Products (MVPs), developed across several key domains. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
+<h2 align="center">
+  <img width="23%" alt="Model2Vec logo" src="assets/logo.png"><br/>
+</h2>
+
+This repository serves as a curated collection of my AI/ML projects, including tools, Proof-of-Concepts (PoCs), and Minimum Viable Products (MVPs), developed across several key domains. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
 
 ---
 
@@ -58,4 +61,4 @@ Contributions are welcome! If you have an AI/ML tool, PoC, or MVP that fits with
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the `LICENSE` file for details.
+All projects are licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the `LICENSE` file for details.
