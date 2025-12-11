@@ -27,15 +27,23 @@ Development of conversational AI systems, including rule-based bots, retrieval-b
 
 Development of agent-based for various applications like customer service, information retrieval, or interactive assistants.
 
--   [Pawcha : Conversational agent that tracks and recalls your receipt-based purchases.](#)
--   [Nokcha : An agentic chatbot capable of extracting meaningful information from both tabular datasets and PDFs.](#)
+-   [Pawcha : Conversational agent that tracks and recalls your receipt-based purchases](#)
+-   [Nokcha : An agentic chatbot capable of extracting meaningful information from both tabular datasets and PDFs](#)
 
 ### 📊 AI/ML Pipeline
 
 Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
--   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
 -   [Document Similarity Search](#)
 -   [Barebone Vector DB](#)
+-   [QLORA Fine Tuning for Downstream Task](#)
+-   [Data-streaming Pipeline](#)
+-   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
+
+### 👁️ Computer Vision (CV)
+
+Solutions involving the processing, analysis, and understanding of digital images and videos. This may include object detection, image classification, segmentation, and more.
+-   [Facex: Lightweight, High-Performance Facial Expression Classifier](https://github.com/hfahrudin/facex)
+-   [Motion Nav: Motion-based PPT Controller](https://github.com/hfahrudin/motion_nav)
 
 ### 📖 Research Implentaion
 
@@ -44,12 +52,6 @@ Implementations of research papers, focusing on reproducing results, benchmarkin
 -   [Football Defensive Ghosting Agent using Imitation Learning](https://github.com/hfahrudin/Football-MultiAgent-Imitation-Learning)
 -   [T-Rex Run AI with Deep Reinforcement Learning](https://github.com/hfahrudin/trex-DQN)
 -   [VigenèreRSAImageLock](https://github.com/hfahrudin/VigenereRSAImageLock)
-
-### 👁️ Computer Vision (CV)
-
-Solutions involving the processing, analysis, and understanding of digital images and videos. This may include object detection, image classification, segmentation, and more.
--   [Facex: Lightweight, High-Performance Facial Expression Classifier](https://github.com/hfahrudin/facex)
--   [Motion Nav: Motion-based PPT Controller](https://github.com/hfahrudin/motion_nav)
 
 
 ## 📄 License
