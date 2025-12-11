@@ -1,37 +1,19 @@
 
 <h2 align="center">
-  <img width="23%" alt="Model2Vec logo" src="assets/logo.png"><br/>
+  <img width="25%" alt="Model2Vec logo" src="assets/logo.png"><br/>
 </h2>
 
 This repository serves as a curated collection of my AI/ML projects, including Proof-of-Concepts (PoCs), Minimum Viable Products (MVPs) and research paper implementation across several key domains. The goal is to showcase practical applications and explorations in the rapidly evolving fields of artificial intelligence and machine learning.
 
----
 
 ## 🚀 Domains Covered
 
 This repository categorizes projects into the following AI/ML domains:
 
+<!-- 
 ### ⚙️ Automation
 
 Projects focused on automating repetitive tasks, intelligent process automation (IPA), and leveraging AI for operational efficiency.
--   [Project 1: Brief Description](#)
--   [Project 2: Brief Description](#)
-
-### 🤖 Agentic Tools
-
-Implementations of AI agents designed to perform tasks autonomously, interact with environments, and make decisions. This includes tools for planning, reasoning, and multi-agent systems.
--   [Project 1: Brief Description](#)
--   [Project 2: Brief Description](#)
-
-### 👁️ Computer Vision (CV)
-
-Solutions involving the processing, analysis, and understanding of digital images and videos. This may include object detection, image classification, segmentation, and more.
--   [Project 1: Brief Description](#)
--   [Project 2: Brief Description](#)
-
-### 📊 ML Pipeline
-
-Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
 -   [Project 1: Brief Description](#)
 -   [Project 2: Brief Description](#)
 
@@ -39,25 +21,29 @@ Tools and frameworks for building, managing, and optimizing end-to-end Machine L
 
 Development of conversational AI systems, including rule-based bots, retrieval-based models, and generative models for various applications like customer service, information retrieval, or interactive assistants.
 -   [Project 1: Brief Description](#)
--   [Project 2: Brief Description](#)
+-   [Project 2: Brief Description](#) -->
 
----
+### 📊 AI/ML Tools
 
-## 📝 Getting Started
+Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
+-   [Flowkestra: A Lightweight Orchestrator for Machine Learning Experiments](https://github.com/hfahrudin/flowkestra)
+-   [Orkes: A lightweight orchestration framework for LLM agents, no abstractions you don’t need.](https://github.com/hfahrudin/orkes)
+-   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
 
-Each project within this repository is typically located in its own subdirectory. To explore a specific project:
+### 📖 Research Implentaion
 
-1.  Navigate to the relevant domain section above.
-2.  Click on the link to the project you are interested in.
-3.  Each project directory should contain its own `README.md` with specific instructions on setup, usage, and further details.
+Implementations of research papers, focusing on reproducing results, benchmarking models, and exploring novel AI/ML techniques.
+-   [Meta-Learning Algorithms Implementation](https://github.com/hfahrudin/MetaLearn-MAML_Reptile)
+-   [Football Defensive Ghosting Agent using Imitation Learning](https://github.com/hfahrudin/Football-MultiAgent-Imitation-Learning)
+-   [T-Rex Run AI with Deep Reinforcement Learning](https://github.com/hfahrudin/trex-DQN)
+-   [VigenèreRSAImageLock](https://github.com/hfahrudin/VigenereRSAImageLock)
 
----
+### 👁️ Computer Vision (CV)
 
-## ✨ Contribution
+Solutions involving the processing, analysis, and understanding of digital images and videos. This may include object detection, image classification, segmentation, and more.
+-   [Facex: Lightweight, High-Performance Facial Expression Classifier](https://github.com/hfahrudin/facex)
+-   [Motion Nav: Motion-based PPT Controller](https://github.com/hfahrudin/motion_nav)
 
-Contributions are welcome! If you have an AI/ML tool, PoC, or MVP that fits within these domains and would like to add it to this collection, please refer to the `CONTRIBUTING.md` file (if available) for guidelines or open an issue to discuss.
-
----
 
 ## 📄 License
 
