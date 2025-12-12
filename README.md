@@ -33,8 +33,8 @@ Development of agent-based for various applications like customer service, infor
 
 Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
 -   [Document Similarity Search](#)
--   [Barebone Vector DB](#)
--   [QLORA Fine Tuning for Downstream Task](#)
+-   [Barebone Vector DB: Simplest, minimum-est, implementation of vector DB](https://github.com/hfahrudin/bb_vectordb)
+-   [QLora-Runner: Fine-tune, quantize, and evaluate LLMs for downstream tasks using QLORA](https://github.com/hfahrudin/qlora_downstream)
 -   [Data-streaming Pipeline](#)
 -   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
 

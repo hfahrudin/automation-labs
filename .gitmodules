@@ -25,3 +25,9 @@
 [submodule "agent/nokcha"]
 	path = agent/nokcha
 	url = https://github.com/hfahrudin/nokcha-agent.git
+[submodule "pipeline/qlora"]
+	path = pipeline/qlora
+	url = https://github.com/hfahrudin/qlora_downstream
+[submodule "pipeline/bbvectordb"]
+	path = pipeline/bbvectordb
+	url = https://github.com/hfahrudin/bb_vectordb
