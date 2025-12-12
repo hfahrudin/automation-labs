@@ -19,3 +19,6 @@
 [submodule "research/VigenereRSAImageLock"]
 	path = research/VigenereRSAImageLock
 	url = https://github.com/hfahrudin/VigenereRSAImageLock
+[submodule "agent/pawcha"]
+	path = agent/pawcha
+	url = https://github.com/hfahrudin/pawcha-agent.git
