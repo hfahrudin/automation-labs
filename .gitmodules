@@ -22,3 +22,6 @@
 [submodule "agent/pawcha"]
 	path = agent/pawcha
 	url = https://github.com/hfahrudin/pawcha-agent.git
+[submodule "agent/nokcha"]
+	path = agent/nokcha
+	url = https://github.com/hfahrudin/nokcha-agent.git
