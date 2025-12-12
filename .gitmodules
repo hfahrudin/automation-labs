@@ -31,3 +31,6 @@
 [submodule "pipeline/bbvectordb"]
 	path = pipeline/bbvectordb
 	url = https://github.com/hfahrudin/bb_vectordb
+[submodule "pipeline/doc_dup_det"]
+	path = pipeline/doc_dup_det
+	url = https://github.com/hfahrudin/doc_dup_det

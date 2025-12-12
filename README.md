@@ -32,7 +32,7 @@ Development of agent-based for various applications like customer service, infor
 ### 📊 AI/ML Pipeline
 
 Tools and frameworks for building, managing, and optimizing end-to-end Machine Learning pipelines, covering data ingestion, preprocessing, model training, evaluation, and deployment.
--   [Document Similarity Search](#)
+-   [Doc Dup Det: Duplicate detection service powered by embedding model and vector db](https://github.com/hfahrudin/doc_dup_det)
 -   [Barebone Vector DB: Simplest, minimum-est, implementation of vector DB](https://github.com/hfahrudin/bb_vectordb)
 -   [QLora-Runner: Fine-tune, quantize, and evaluate LLMs for downstream tasks using QLORA](https://github.com/hfahrudin/qlora_downstream)
 -   [Data-streaming Pipeline](#)
