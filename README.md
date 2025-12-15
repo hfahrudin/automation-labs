@@ -35,7 +35,7 @@ Tools and frameworks for building, managing, and optimizing end-to-end Machine L
 -   [Doc Dup Det: Duplicate detection service powered by embedding model and vector db](https://github.com/hfahrudin/doc_dup_det)
 -   [Barebone Vector DB: Simplest, minimum-est, implementation of vector DB](https://github.com/hfahrudin/bb_vectordb)
 -   [QLora-Runner: Fine-tune, quantize, and evaluate LLMs for downstream tasks using QLORA](https://github.com/hfahrudin/qlora_downstream)
--   [CTLogs Stream: Ingests CT logs using dynamic worker staggering to squeeze maximum throughput from rate-limited streams](https://github.com/hfahrudin/ctlogs_stream.git)
+-   [CTLogs Stream: Rate-limit optimized CT log ingestion via dynamic worker staggering](https://github.com/hfahrudin/ctlogs_stream.git)
 -   [Dockerize Llamafile: Containerized version of the LlamaFile to making it easy to deploy and manage](https://github.com/hfahrudin/Dockerize-Llamafile)
 
 ### 👁️ Computer Vision (CV)
