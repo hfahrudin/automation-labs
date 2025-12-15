@@ -34,3 +34,6 @@
 [submodule "pipeline/doc_dup_det"]
 	path = pipeline/doc_dup_det
 	url = https://github.com/hfahrudin/doc_dup_det
+[submodule "cv/face-liveness"]
+	path = cv/face-liveness
+	url = https://github.com/hfahrudin/face-liveness-plat.git
