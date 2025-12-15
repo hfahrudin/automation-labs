@@ -1,12 +1,12 @@
 [submodule "cv/facex"]
     path = cv/facex
     url = https://github.com/hfahrudin/facex
-    branch = main
+    branch = master
 
 [submodule "cv/motion_nav"]
     path = cv/motion_nav
     url = https://github.com/hfahrudin/motion_nav
-    branch = main
+    branch = master
 
 [submodule "pipeline/Dockerize-Llamafile"]
     path = pipeline/Dockerize-Llamafile
@@ -16,7 +16,7 @@
 [submodule "research/MetaLearn-MAML_Reptile"]
     path = research/MetaLearn-MAML_Reptile
     url = https://github.com/hfahrudin/MetaLearn-MAML_Reptile
-    branch = main
+    branch = master
 
 [submodule "research/Football-MultiAgent"]
     path = research/Football-MultiAgent
@@ -26,12 +26,12 @@
 [submodule "research/trex-DQN"]
     path = research/trex-DQN
     url = https://github.com/hfahrudin/trex-DQN
-    branch = main
+    branch = master
 
 [submodule "research/VigenereRSAImageLock"]
     path = research/VigenereRSAImageLock
     url = https://github.com/hfahrudin/VigenereRSAImageLock
-    branch = main
+    branch = master
 
 [submodule "agent/pawcha"]
     path = agent/pawcha
