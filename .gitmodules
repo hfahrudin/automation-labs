@@ -1,39 +1,64 @@
 [submodule "cv/facex"]
-	path = cv/facex
-	url = https://github.com/hfahrudin/facex
+    path = cv/facex
+    url = https://github.com/hfahrudin/facex
+    branch = main
+
 [submodule "cv/motion_nav"]
-	path = cv/motion_nav
-	url = https://github.com/hfahrudin/motion_nav
+    path = cv/motion_nav
+    url = https://github.com/hfahrudin/motion_nav
+    branch = main
+
 [submodule "pipeline/Dockerize-Llamafile"]
-	path = pipeline/Dockerize-Llamafile
-	url = https://github.com/hfahrudin/Dockerize-Llamafile
+    path = pipeline/Dockerize-Llamafile
+    url = https://github.com/hfahrudin/Dockerize-Llamafile
+    branch = main
+
 [submodule "research/MetaLearn-MAML_Reptile"]
-	path = research/MetaLearn-MAML_Reptile
-	url = https://github.com/hfahrudin/MetaLearn-MAML_Reptile
+    path = research/MetaLearn-MAML_Reptile
+    url = https://github.com/hfahrudin/MetaLearn-MAML_Reptile
+    branch = main
+
 [submodule "research/Football-MultiAgent"]
-	path = research/Football-MultiAgent
-	url = https://github.com/hfahrudin/Football-MultiAgent-Imitation-Learning
+    path = research/Football-MultiAgent
+    url = https://github.com/hfahrudin/Football-MultiAgent-Imitation-Learning
+    branch = main
+
 [submodule "research/trex-DQN"]
-	path = research/trex-DQN
-	url = https://github.com/hfahrudin/trex-DQN
+    path = research/trex-DQN
+    url = https://github.com/hfahrudin/trex-DQN
+    branch = main
+
 [submodule "research/VigenereRSAImageLock"]
-	path = research/VigenereRSAImageLock
-	url = https://github.com/hfahrudin/VigenereRSAImageLock
+    path = research/VigenereRSAImageLock
+    url = https://github.com/hfahrudin/VigenereRSAImageLock
+    branch = main
+
 [submodule "agent/pawcha"]
-	path = agent/pawcha
-	url = https://github.com/hfahrudin/pawcha-agent.git
+    path = agent/pawcha
+    url = https://github.com/hfahrudin/pawcha-agent.git
+    branch = main
+
 [submodule "agent/nokcha"]
-	path = agent/nokcha
-	url = https://github.com/hfahrudin/nokcha-agent.git
+    path = agent/nokcha
+    url = https://github.com/hfahrudin/nokcha-agent.git
+    branch = main
+
 [submodule "pipeline/qlora"]
-	path = pipeline/qlora
-	url = https://github.com/hfahrudin/qlora_downstream
+    path = pipeline/qlora
+    url = https://github.com/hfahrudin/qlora_downstream
+    branch = main
+
 [submodule "pipeline/bbvectordb"]
-	path = pipeline/bbvectordb
-	url = https://github.com/hfahrudin/bb_vectordb
+    path = pipeline/bbvectordb
+    url = https://github.com/hfahrudin/bb_vectordb
+    branch = main
+
 [submodule "pipeline/doc_dup_det"]
-	path = pipeline/doc_dup_det
-	url = https://github.com/hfahrudin/doc_dup_det
+    path = pipeline/doc_dup_det
+    url = https://github.com/hfahrudin/doc_dup_det
+    branch = main
+
 [submodule "cv/face-liveness"]
-	path = cv/face-liveness
-	url = https://github.com/hfahrudin/face-liveness-plat.git
+    path = cv/face-liveness
+    url = https://github.com/hfahrudin/face-liveness-plat.git
+    branch = main
