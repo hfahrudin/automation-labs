@@ -45,7 +45,7 @@ Solutions involving the processing, analysis, and understanding of digital image
 -   [Motion Nav: Motion-based PPT Controller](https://github.com/hfahrudin/motion_nav)
 -   [Face Liveliness Test: POC of webcam-based facial liveness authentication system](https://github.com/hfahrudin/face-liveness-plat.git)
 
-### 📖 Research Implentaion
+### 📖 Research Implentation
 
 Implementations of research papers, focusing on reproducing results, benchmarking models, and exploring novel AI/ML techniques.
 -   [Meta-Learning Algorithms Implementation](https://github.com/hfahrudin/MetaLearn-MAML_Reptile)
