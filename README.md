@@ -27,7 +27,7 @@ Development of conversational AI systems, including rule-based bots, retrieval-b
 Development of agent-based for various applications like customer service, information retrieval, or interactive assistants.
 
 -   [Pawcha : Conversational agent that tracks and recalls your receipt-based purchases](https://github.com/hfahrudin/pawcha-agent)
--   [Nokcha : Deep research agent to answer your query based on both tabular datasets and PDFs](https://github.com/hfahrudin/nokcha-agent)
+-   [Nokcha : Your AI Assistant that fuses tabular data and documents into clear fraud insights](https://github.com/hfahrudin/nokcha-agent)
 
 ### 📊 AI/ML Pipeline
 
